@@ -1,0 +1,20 @@
+/*max width problem when entering large value*/
+.wd{
+    width: 100%;
+    border-radius: unset;
+}
+.ac{
+    padding-left: 0;
+    padding-right: 0;
+}
+.bc{
+    margin-top: 250px;
+}
+.brand{
+    text-align: center;
+    padding: 10px;
+}
+.screen{
+
+    margin-left: 15%;
+}
